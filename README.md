@@ -1,6 +1,6 @@
-# flutter_dado
+# flutter dado app
 
-A new Flutter project.
+Flutter Random Dice project
 
 ## Getting Started
 
